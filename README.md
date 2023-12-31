@@ -1,1 +1,1 @@
-# no-sql-challenge
+In this challenge, I was able to analyze data such as rating score, hygiene scores, and much more. I gathered releveant information from the database and I was able to incorpoarte it into my notebooks. I went through a large amount of restaurant ratings to accurately compare each of them.
